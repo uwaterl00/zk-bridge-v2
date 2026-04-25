@@ -1,0 +1,9 @@
+{
+  "name": "pokeball-zk-bridge",
+  "version": "1.0.0",
+  "private": true,
+  "devDependencies": {
+    "hardhat": "^2.22.0",
+    "@openzeppelin/contracts": "^5.1.0"
+  }
+}
